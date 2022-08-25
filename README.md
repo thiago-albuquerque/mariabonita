@@ -11,7 +11,7 @@ Nele o usuário encontra lançamentos, moda fitness e moda praia.
 - Styled Components
 - React Native
 - Hook
-- Navigation Stack
+- Stack Navigator
 
 ## Demonstração:
 
